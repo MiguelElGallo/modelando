@@ -1,0 +1,10 @@
+# Introduction
+ At its core, data modeling is the process of creating a blueprint of a data structure. This blueprint, also known as a data model, allows us to clearly communicate the design and organization of our data, as well as the relationships between different data entities. Data modeling plays a crucial role in the field of computer science, as it helps us effectively store, retrieve, and analyze data. Whether you're a seasoned professional or just starting out on your data modeling journey, I hope this introduction will provide you with a solid foundation and inspire you to delve deeper into this exciting field. So, let's get started!
+## Data and reality
+I like to make the first distinction of data based on what they represent in the real world. Let's start with physical objects, for example, items (in a store), customers, vendors, etc. 
+All these objects exist in reality; you can, at some point, see them or even touch them. These objects have attributes intrinsic to themselves. For example, a customer could have characteristics like Data of Birth, Name, and Lastname, etc. I like to make the first distinction of data based on what they represent in the real world. 
+All these objects exist in reality; you can, at some point, see them or even touch them. These objects have attributes intrinsic to themselves. For example, a customer could have characteristics like Date of Birth, Name, and Lastname, etc. 
+
+The other types of objects are more abstract concerning what they represent; they are usually bound to a specific time and involve one or more other objects. (or entities) 
+
+On 4th January at 7:30, John Doe bought three large coffees for 9 dollars. This is the description of an invoice, another type of object or entity we can model. The invoice describes a fact (on a date), an event that involves two other objects: Customer (John doe) and Item (The coffee). Notice that the invoice without  Customer and Item does not make much sense. It requires a date, a buyer, an item, an amount, and many other possibles thing to make sense, in other words, to describe a fact. 
