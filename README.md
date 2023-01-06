@@ -22,3 +22,12 @@ Un cliente me pidió que preparara una capacitación sobre Power BI para un grup
 Me dieron buenos comentarios sobre cómo presenté "Dimensions" y "Facts".
 
 Ahora decidí recordar cómo lo hice y ponerlo a disposición de todos, con la esperanza de que ayude a más personas y genere colaboración.
+
+
+## Content
+| **Episode** | **English**                                                                                                      | **Spanish**                                                                                                      |
+|-------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| S1E1 Intro  | https://github.com/MiguelElGallo/modelando/blob/main/Topic%201%20/One%20possible%20classification%20of%20data.md | https://github.com/MiguelElGallo/modelando/blob/main/Topic%201%20/One%20possible%20classification%20of%20data.md |
+|             |                                                                                                                  |                                                                                                                  |
+|             |                                                                                                                  |                                                                                                                  |
+|             |                                                                                                                  |                                                                                                                  |
