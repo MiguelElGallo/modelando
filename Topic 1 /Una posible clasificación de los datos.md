@@ -21,4 +21,4 @@ Representan un evento en una fecha específica que involucra una o más dimensio
 Volvamos al ejemplo de la factura; las medidas son Cantidad = tres, Importe = 9 pesos. Estas columnas numéricas suelen ser las que agregas (suma) para ver algunos totales. Por ejemplo, sumá la columna de cantidad de todas las facturas en un mes para ver cuánto vendió durante ese mes.
 
 ## Ejercicio
-Te sugiero que escribas al menos diez dimensiones y algunos de sus atributos y 3 hechos, para ayudarte a digerir este contenido. Siéntase libre de abrir problemas y hacer preguntas si tiene alguna duda usando la funcionalidad de GitHub.
+Te sugiero que escribas al menos diez dimensiones y algunos de sus atributos y 3 hechos, para ayudarte a digerir este contenido. Siéntete libre de abrir problemas y hacer preguntas si tiene alguna duda usando la funcionalidad de GitHub.
