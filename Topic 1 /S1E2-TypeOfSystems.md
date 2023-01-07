@@ -22,13 +22,17 @@ Examples of Transactional systems are SAP S/4 HANA, Microsoft Dynamics, a bank s
 OLAP stands for OnLine Analytical Processing. OLAP is a denomination also given to the database behind Analytical / Reporting Systems.
 Examples of OLAP systems are Azure Synapse Dedicate Pools, Power BI datasets (Formerly Ms. Analysis Services), Snowflake, Google Cloud Big Query, AWS redshift, DuckDB, etc.
 
-## Life is not black or white. 
+## The world is not 0s or 1s 
 
-It took me to finish high school and start the university (Software Engineering at UPSA) to understand that life is not black or white. Life happens inbetween.
-The same happened with OLTP and OLAP; in the beginning, it was a clear distinction, but guess what? Shades of grey happened. Around 2014 Hybrid transaction/analytical processing (HTAP) appeared. It was a new approach, and its core concept was to avoid moving the data from the system of records to the analytical system, in other words: A single database that could serve both worlds, OLAP and OLTP. 
+Having finished high school and enrolled in university (Software Engineering at UPSA), I came to realize that life is more complicated than yes or no, 0s and 1s. Life happens in between.The same happened with OLTP and OLAP; in the beginning, it was a clear distinction, but guess what? Around 2014 Hybrid transaction/analytical processing (HTAP) appeared. It was a new approach, and its core concept was to avoid moving the data from the system of records to the analytical system, in other words: A single database that could serve both worlds, OLAP and OLTP. 
 
 ## Before HTAP
 Before HTAP, boundaries were clear:
+
+```mermaid
+  graph TD
+    A[Source Systems-OLTP ] -->|Data| B[ Analytical Systems OLAP]
+```
 Here we can see on the left the Systems of records; then, data is moved via a process called Extract Transform or Load (ETL) to the Analytical system. (OLAP)
 
 ## After HTAP
