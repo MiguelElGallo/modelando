@@ -27,8 +27,9 @@ Ahora decidí recordar cómo lo hice y ponerlo a disposición de todos, con la e
 ## Content
 | **Episode** | **English**                                                                                                      | **Spanish**                                                                                                      |
 |-------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| S1E1 Intro  | [LINK_EN](https://github.com/MiguelElGallo/modelando/blob/main/Topic%201%20/One%20possible%20classification%20of%20data.md) | [LINK_ES](https://github.com/MiguelElGallo/modelando/blob/main/Topic%201%20/Una%20posible%20clasificaci%C3%B3n%20de%20los%20datos.md)  |
-| S1E2 Black or White|                                                                                                                  |                                                                                                               
+| S1E1 Master and transactional data  | [LINK_EN](/Season%201/S1E1/S1E1%20One%20possible%20classification%20of%20data.md) | [LINK_ES](/Season%201/S1E1/S1E1%20Una%20posible%20clasificaci%C3%B3n%20de%20los%20datos.md)  |
+| S1E2 OLAP vs OLTP | [LINK_EN](/Season%201/S1E2/S1E2-TypeOfSystems.md) | [LINK_ES](/Season%201/S1E2/S1E2-Tipos%20de%20sistemas.md)  |
+                                                                                                                                                                                                                     
 
 
 
