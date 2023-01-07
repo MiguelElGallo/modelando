@@ -33,8 +33,13 @@ Before HTAP, boundaries were clear:
   graph TD
     A[Source Systems-OLTP ] -->|Data| B[ Analytical Systems OLAP]
 ```
-Here we can see on the left the Systems of records; then, data is moved via a process called Extract Transform or Load (ETL) to the Analytical system. (OLAP)
+Here we can see on the top the Systems of records; then, data is moved via a process called Extract Transform or Load (ETL) to the Analytical system. (OLAP) A clear distinction between types of systems.
 
 ## After HTAP
-Again, many shades of gray! 
+ 
 One approach was to produce a database that offered all the robustness and consistency required by OLTP and the high capacity for data crunching required by OLAP in one product. SAP promised this by releasing SAP HANA.Another approach was to have a database that would store each transaction simultaneously in two formats, one optimized for OLAP and one for OLTP. One example of this is: Azure Synapse Link for SQL. In the middle of these two approaches is changed data capture (CDC). The idea is the same as for Azure Synapse Link for SQL, but it is a bit more manual. The OLTP system broadcasts all transactions it has received, and on the other receiver side, it could be an analytical system that gets these transactions (with almost no delay). In the end, you have the data stored in two places.
+
+## Summary OLAP vs OLTP
+This table provided by SAP wiki is my favourite:
+
+[OLAP vs OLTP](https://wiki.scn.sap.com/wiki/display/BI/OLAP+vs+OLTP)
