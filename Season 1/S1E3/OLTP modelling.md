@@ -4,11 +4,13 @@ We know from S1E2 that there are OLTP, OLAP, and HTAP systems. We know from S1E1
 
 The data modeling for OLTP usually goes like this:
 
-Create an Entity Relationship model. (ERD)
-Convert that ERD into database tables
-Apply the Normal forms
+• Create an Entity Relationship model. (ERD)
 
-All these concepts are ancient (from the '80s) but are still valid today.
+• Convert that ERD into database tables
+
+• Apply the Normal forms
+
+All these concepts are ancient (from the '70 '80s) but are still valid today for relational databases.
 
 ## The Entity-relationship model (ERD)
 
