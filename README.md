@@ -29,4 +29,4 @@ Ahora decidí recordar cómo lo hice y ponerlo a disposición de todos, con la e
 |-------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | S1E1 Master and transactional data  | [LINK_EN](/Season%201/S1E1/S1E1%20One%20possible%20classification%20of%20data.md) | [LINK_ES](/Season%201/S1E1/S1E1%20Una%20posible%20clasificaci%C3%B3n%20de%20los%20datos.md)  |
 | S1E2 OLAP vs OLTP | [LINK_EN](/Season%201/S1E2/S1E2-TypeOfSystems.md) | [LINK_ES](/Season%201/S1E2/S1E2-Tipos%20de%20sistemas.md)  |
-| S1E2 OLAP vs OLTP | [LINK_EN](/Season%201/S1E3/OLTP%20modelling.md) | Coming Soon  |
+| S1E3 Modelling OLTP | [LINK_EN](/Season%201/S1E3/OLTP%20modelling.md) | Coming Soon  |
