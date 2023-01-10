@@ -1,4 +1,4 @@
-# OLTP model and desgn
+# OLTP model and design
 
 We know from S1E2 that there are OLTP, OLAP, and HTAP systems. We know from S1E1 that we can model data into dimensions and fact tables. As you may have guessed, how to model the data differs if you build an OLAP or OLTP system.
 
