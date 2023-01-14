@@ -60,9 +60,13 @@ The problems with this design are the same as those caused by violations of the 
 To satisfy third normal form, the record shown above should be decomposed into two records:
 
 ```
-| EMPLOYEE    | DEPARTMENT | * | DEPARTMENT  | LOCATION |
-|-------------|------------|---|-------------|----------|
-| (KEY FIELD) |            |   | (KEY FIELD) |          |
+| EMPLOYEE    | DEPARTMENT | 
+|-------------|------------|
+| (KEY FIELD) |            |
+
+| DEPARTMENT  | LOCATION |
+|-------------|----------|
+| (KEY FIELD) |          |
 ```
 
 To summarize, a record is in second and third normal forms if every field is either part of the key or provides a (single-valued) fact about exactly the whole key and nothing else.
