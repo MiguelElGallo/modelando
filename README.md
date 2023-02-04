@@ -31,4 +31,4 @@ Ahora decidí recordar cómo lo hice y ponerlo a disposición de todos, con la e
 | S1E2 OLAP vs OLTP | [LINK_EN](/Season%201/S1E2/S1E2-TypeOfSystems.md) | [LINK_ES](/Season%201/S1E2/S1E2-Tipos%20de%20sistemas.md)  |
 | S1E3 Modelling OLTP | [LINK_EN](/Season%201/S1E3/OLTP%20modelling.md) | [LINK_ES](/Season%201/S1E3/Modelando%20para%20OLTP.md)  |
 | S1E4 Modelling OLAP | [LINK_EN](/Season%201/S1E4/OlapModelling.md) | [LINK_ES](/Season%201/S1E4/ModeladoOlap.md) |
-| S1E5 Lakehouses | [LINK_EN](/Season%201/S1E5/FromDataWarehousesToDataLakes.md) | [LINK_ES] Coming Soon |
+| S1E5 Lakehouses | [LINK_EN](/Season%201/S1E5/FromDataWarehousesToDataLakes.md) | [LINK_ES](/Season%201/S1E5/DeDwHastaLakeHouses.md) |
