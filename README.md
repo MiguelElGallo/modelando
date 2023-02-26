@@ -32,4 +32,4 @@ Ahora decidí recordar cómo lo hice y ponerlo a disposición de todos, con la e
 | S1E3 Modelling OLTP | [LINK_EN](/Season%201/S1E3/OLTP%20modelling.md) | [LINK_ES](/Season%201/S1E3/Modelando%20para%20OLTP.md)  |
 | S1E4 Modelling OLAP | [LINK_EN](/Season%201/S1E4/OlapModelling.md) | [LINK_ES](/Season%201/S1E4/ModeladoOlap.md) |
 | S1E5 Lakehouses | [LINK_EN](/Season%201/S1E5/FromDataWarehousesToDataLakes.md) | [LINK_ES](/Season%201/S1E5/DeDwHastaLakeHouses.md) |
-| S2E1 Keys | [LINK_EN](/Season%202/S2E1/S2E1%20Keys.md) | Coming Soon |
+| S2E1 Keys | [LINK_EN](/Season%202/S2E1/S2E1%20Keys.md) | [LINK_ES](/Season%202/S2E1/S2E1%20Llaves.md) |
