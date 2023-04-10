@@ -33,3 +33,4 @@ Ahora decidí recordar cómo lo hice y ponerlo a disposición de todos, con la e
 | S1E4 Modelling OLAP | [LINK_EN](/Season%201/S1E4/OlapModelling.md) | [LINK_ES](/Season%201/S1E4/ModeladoOlap.md) |
 | S1E5 Lakehouses | [LINK_EN](/Season%201/S1E5/FromDataWarehousesToDataLakes.md) | [LINK_ES](/Season%201/S1E5/DeDwHastaLakeHouses.md) |
 | S2E1 Keys | [LINK_EN](/Season%202/S2E1/S2E1%20Keys.md) | [LINK_ES](/Season%202/S2E1/S2E1%20Llaves.md) |
+| S2E3 Unified Star Schema | [LINK_EN](/Season%202/S2E3/UnifiedStarSchema.md) | [LINK_ES](Comming Soon) |
