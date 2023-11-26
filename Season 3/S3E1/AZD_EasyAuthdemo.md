@@ -5,11 +5,11 @@ Leveraging Code Spaces, AZD and Azure Easy Auth.
 
 ## Video Part I - Deploying a Streamlit Application to Azure with two commands
 
-[View the video here](https://youtu.be/5LVubv9RWmQ)
+[View Part I](https://youtu.be/5LVubv9RWmQ)
 
-## Part II - Setting Continous deployment (CD) pipeline with Github actions
+## Video Part II - Setting Continous deployment (CD) pipeline with Github actions
 
-[View vide part II here](https://www.youtube.com/watch?v=ny7mVz0Yy5k)
+[View part II](https://www.youtube.com/watch?v=ny7mVz0Yy5k)
 
 ## Link to the REPO shown in the videos
 
